@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ConversorNumerosRomanos
+﻿namespace ConversorNumerosRomanos
 {
     public class ConverteAlgarismos
     {
